@@ -24,7 +24,7 @@
   },
   "informationPanel": {
     "groupByEdgeDirection": true,
-    "imageAttribute": "false"
+    "imageAttribute": false
   },
   "sigma": {
     "drawingProperties": {
