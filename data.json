@@ -204,7 +204,8 @@
             "Harmonic Closeness Centrality":"0.6770833333333334",
             "Grau de entrada":"7",
             "Grau de saída":"6",
-            "Grau":"13"
+            "Grau":"13",
+            "Image":"https://media.licdn.com/dms/image/v2/D4D03AQEm3WDWZbw6Xw/profile-displayphoto-shrink_400_400/B4DZT0fTrRHkAo-/0/1739268636224?e\u003d1748476800\u0026v\u003dbeta\u0026t\u003df_jX4dbMBQW4tmgcF1zRxPxqIcb4W929KFp50G8O2To"
          },
          "color":"rgb(0,0,0)",
          "size":500.0
@@ -261,7 +262,8 @@
             "Harmonic Closeness Centrality":"0.4218749999999999",
             "Grau de entrada":"1",
             "Grau de saída":"1",
-            "Grau":"2"
+            "Grau":"2",
+            "Image": "https://media.licdn.com/dms/image/v2/D4E03AQF8Be1os2SnXQ/profile-displayphoto-shrink_400_400/B4EZVrWfGtGYAo-/0/1741262812565?e=1748476800&v=beta&t=aPgJED6EBnKJ9c74TQ-JE86IKAZZ6l_qH_XX4Pr4k8c"
          },
          "color":"rgb(0,0,0)",
          "size":100.0
