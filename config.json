@@ -10,12 +10,12 @@
   "text": {
     "more": "",
     "intro": "Dirigido",
-    "title": "ONA dirigido"
+    "title": "ONA"
   },
   "legend": {
     "edgeLabel": "conexão",
     "colorLabel": "#363C42",
-    "nodeLabel": "paricipante"
+    "nodeLabel": "participante"
   },
   "features": {
     "search": false,
@@ -23,7 +23,7 @@
     "hoverBehavior": "default"
   },
   "informationPanel": {
-    "groupByEdgeDirection": true,
+    "groupByEdgeDirection": false,
     "imageAttribute": false
   },
   "sigma": {
