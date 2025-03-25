@@ -8,14 +8,14 @@
     "text": " Maria Alice"
   },
   "text": {
-    "more": "Saiba mais",
-    "intro": "Análise de Rede Organizacional",
+    "more": "",
+    "intro": "Análise de rede organizacional",
     "title": "ONA"
   },
   "legend": {
     "edgeLabel": "conexão linkedin",
-    "nodeLabel": "participante",    
-    "colorLabel": ""
+    "colorLabel": "",
+    "nodeLabel": "participante"
   },
   "features": {
     "search": false,
@@ -37,14 +37,13 @@
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
-      "defaultLabelSize": 15,      
-      "imageAttribute": "Image"
+      "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 5,
-      "minEdgeSize": 1,
-      "minNodeSize": 10,
-      "maxNodeSize": 40
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
     },
     "mouseProperties": {
       "maxRatio": 20,
