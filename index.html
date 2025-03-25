@@ -107,6 +107,35 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
+ s.graph.nodes().forEach(function(n) {
+    if (n.image) {
+      const img = new Image();
+      img.src = n.image;
+      img.onload = function() {
+        n.img = img;
+      };
+    }
+  });
+
+  /*Custom renderer*/
+  s.bind('render', function() {
+    const context = s.renderers[0].context;
+    s.graph.nodes().forEach(function(n) {
+      if (n.img) {
+        const cam = s.camera.cameraPosition(n.x, n.y);
+        const size = n.size * 10; // Ajuste o fator para o tamanho da imagem
+
+        context.save();
+        context.beginPath();
+        context.arc(cam.x, cam.y, size / 2, 0, Math.PI * 2, true);
+        context.closePath();
+        context.clip();
+        context.drawImage(n.img, cam.x - size / 2, cam.y - size / 2, size, size);
+        context.restore();
+      }
+    });
+  });
+	
 </script>
 </body>
 </html>
