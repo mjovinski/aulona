@@ -36,7 +36,7 @@
             "Grau":"6"
          },
          "color":"rgb(0,0,0)",
-         "size":10.0
+         "size":300.0
       },
       {
          "label":"Tatiane Laurindo",
@@ -55,7 +55,7 @@
             "Grau":"4"
          },
          "color":"rgb(0,0,0)",
-         "size":30.0
+         "size":300.0
       },
       {
          "label":"Ligia Andrade",
@@ -74,7 +74,7 @@
             "Grau":"2"
          },
          "color":"rgb(0,0,0)",
-         "size":10.0
+         "size":100.0
       },
       {
          "label":"Edna Bedani",
@@ -93,7 +93,7 @@
             "Grau":"4"
          },
          "color":"rgb(0,0,0)",
-         "size":10.0
+         "size":200.0
       },
       {
          "label":"Miguel Nisembaum",
@@ -112,7 +112,7 @@
             "Grau":"24"
          },
          "color":"rgb(0,0,0)",
-         "size":60.0
+         "size":1000.0
       },
       {
          "label":"Alessandra Gerevine Campos Nogueira",
@@ -131,7 +131,7 @@
             "Grau":"4"
          },
          "color":"rgb(0,0,0)",
-         "size":10.0
+         "size":200.0
       },
       {
          "label":"Leandro Nazari de Melo",
@@ -150,7 +150,7 @@
             "Grau":"2"
          },
          "color":"rgb(0,0,0)",
-         "size":10.0
+         "size":100.0
       },
       {
          "label":"Matthias Wegener",
@@ -169,7 +169,7 @@
             "Grau":"6"
          },
          "color":"rgb(0,0,0)",
-         "size":30.0
+         "size":300.0
       },
       {
          "label":"Maiane Lewandowski",
@@ -188,7 +188,7 @@
             "Grau":"2"
          },
          "color":"rgb(0,0,0)",
-         "size":10.0
+         "size":100.0
       },
       {
          "label":"Maria Alice Jovinski",
@@ -207,7 +207,7 @@
             "Grau":"13"
          },
          "color":"rgb(0,0,0)",
-         "size":40.0
+         "size":500.0
       },
       {
          "label":"Marcelo Nobrega",
@@ -226,7 +226,7 @@
             "Grau":"15"
          },
          "color":"rgb(0,0,0)",
-         "size":50.0
+         "size":600.0
       },
       {
          "label":"Caio Viana",
@@ -245,7 +245,7 @@
             "Grau":"2"
          },
          "color":"rgb(0,0,0)",
-         "size":10.0
+         "size":100.0
       },
       {
          "label":"Adriana Ferraz Cesaretto",
@@ -264,7 +264,7 @@
             "Grau":"2"
          },
          "color":"rgb(0,0,0)",
-         "size":10.0
+         "size":100.0
       },
       {
          "label":"Fernanda Pimenta",
@@ -283,7 +283,7 @@
             "Grau":"2"
          },
          "color":"rgb(0,0,0)",
-         "size":10.0
+         "size":100.0
       },
       {
          "label":"Lilian Gordon",
@@ -302,7 +302,7 @@
             "Grau":"2"
          },
          "color":"rgb(0,0,0)",
-         "size":10.0
+         "size":100.0
       },
       {
          "label":"Paula Traldi",
@@ -321,7 +321,7 @@
             "Grau":"2"
          },
          "color":"rgb(0,0,0)",
-         "size":10.0
+         "size":100.0
       }
    ],
    "edges":[
