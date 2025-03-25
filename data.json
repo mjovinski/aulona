@@ -1,1 +1,799 @@
-{"nodes":[{"label":"Paula Traldi","x":-252.83303833007812,"y":-98.88915252685547,"id":"15","attributes":{"Modularity Class":"0","Eccentricity":"3.0","Closeness Centrality":"0.41025641025641024","Eigenvector Centrality":"0.17524179325506994","Betweenness Centrality":"0.0","PageRank":"0.02474658138029734","Harmonic Closeness Centrality":"0.4479166666666665","Grau":"1"},"color":"rgb(242,10,118)","size":30.0},{"label":"Leandro Nazari de Melo","x":257.3205871582031,"y":-69.87493896484375,"id":"10","attributes":{"Modularity Class":"1","Eccentricity":"3.0","Closeness Centrality":"0.45714285714285713","Eigenvector Centrality":"0.20853350423734732","Betweenness Centrality":"0.0","PageRank":"0.02558967727838541","Harmonic Closeness Centrality":"0.48958333333333326","Grau":"1"},"color":"rgb(242,10,118)","size":30.0},{"label":"Ligia Andrade","x":103.66264343261719,"y":-508.6830139160156,"id":"11","attributes":{"Modularity Class":"1","Eccentricity":"3.0","Closeness Centrality":"0.45714285714285713","Eigenvector Centrality":"0.20853350423734732","Betweenness Centrality":"0.0","PageRank":"0.02558967727838541","Harmonic Closeness Centrality":"0.48958333333333326","Grau":"1"},"color":"rgb(242,10,118)","size":30.0},{"label":"Edna Bedani","x":-507.2569580078125,"y":-13.444809913635254,"id":"7","attributes":{"Modularity Class":"0","Eccentricity":"3.0","Closeness Centrality":"0.48484848484848486","Eigenvector Centrality":"0.38377529749241707","Betweenness Centrality":"0.0","PageRank":"0.04151272924691804","Harmonic Closeness Centrality":"0.53125","Grau":"2"},"color":"rgb(224,50,138)","size":32.727272033691406},{"label":"Maria Alice Jovinski","x":-4.240884780883789,"y":0.5095044374465942,"id":"1","attributes":{"Modularity Class":"1","Eccentricity":"2.0","Closeness Centrality":"0.64","Eigenvector Centrality":"0.6978453473866809","Betweenness Centrality":"42.33333333333333","PageRank":"0.14086546416838758","Harmonic Closeness Centrality":"0.71875","Grau":"7"},"color":"rgb(153,229,229)","size":46.3636360168457},{"label":"Fernanda Pimenta","x":-221.74171447753906,"y":465.5711669921875,"id":"9","attributes":{"Modularity Class":"1","Eccentricity":"3.0","Closeness Centrality":"0.45714285714285713","Eigenvector Centrality":"0.20853350423734732","Betweenness Centrality":"0.0","PageRank":"0.02558967727838541","Harmonic Closeness Centrality":"0.48958333333333326","Grau":"1"},"color":"rgb(242,10,118)","size":30.0},{"label":"Alessandra Gerevine Campos Nogueira","x":-415.3260192871094,"y":-303.3294982910156,"id":"2","attributes":{"Modularity Class":"0","Eccentricity":"3.0","Closeness Centrality":"0.48484848484848486","Eigenvector Centrality":"0.38377529749241707","Betweenness Centrality":"0.0","PageRank":"0.04151272924691804","Harmonic Closeness Centrality":"0.53125","Grau":"2"},"color":"rgb(224,50,138)","size":32.727272033691406},{"label":"Marcelo Nobrega","x":14.158679008483887,"y":-266.2259521484375,"id":"3","attributes":{"Modularity Class":"0","Eccentricity":"2.0","Closeness Centrality":"0.6666666666666666","Eigenvector Centrality":"0.8484677040288583","Betweenness Centrality":"25.833333333333336","PageRank":"0.14995421650173446","Harmonic Closeness Centrality":"0.75","Grau":"8"},"color":"rgb(163,224,224)","size":49.09090805053711},{"label":"Fernanda Hasse","x":-174.82244873046875,"y":208.16595458984375,"id":"8","attributes":{"Modularity Class":"1","Eccentricity":"3.0","Closeness Centrality":"0.4","Eigenvector Centrality":"0.14583213714649654","Betweenness Centrality":"0.0","PageRank":"0.02593089966698727","Harmonic Closeness Centrality":"0.43749999999999983","Grau":"1"},"color":"rgb(242,10,118)","size":30.0},{"label":"Lilian Gordon","x":-189.98458862304688,"y":-462.3070373535156,"id":"12","attributes":{"Modularity Class":"1","Eccentricity":"3.0","Closeness Centrality":"0.45714285714285713","Eigenvector Centrality":"0.20853350423734732","Betweenness Centrality":"0.0","PageRank":"0.02558967727838541","Harmonic Closeness Centrality":"0.48958333333333326","Grau":"1"},"color":"rgb(242,10,118)","size":30.0},{"label":"Matthias Wegener","x":507.4270324707031,"y":-122.43873596191406,"id":"14","attributes":{"Modularity Class":"1","Eccentricity":"2.0","Closeness Centrality":"0.5517241379310345","Eigenvector Centrality":"0.5296074346389136","Betweenness Centrality":"0.0","PageRank":"0.0586200995021406","Harmonic Closeness Centrality":"0.59375","Grau":"3"},"color":"rgb(207,90,159)","size":35.45454406738281},{"label":"Tatiane Laurindo","x":339.88702392578125,"y":-359.494873046875,"id":"16","attributes":{"Modularity Class":"1","Eccentricity":"3.0","Closeness Centrality":"0.48484848484848486","Eigenvector Centrality":"0.38377529749241707","Betweenness Centrality":"0.0","PageRank":"0.04151272924691804","Harmonic Closeness Centrality":"0.53125","Grau":"2"},"color":"rgb(224,50,138)","size":32.727272033691406},{"label":"André Souza","x":465.151611328125,"y":160.27561950683594,"id":"5","attributes":{"Modularity Class":"1","Eccentricity":"2.0","Closeness Centrality":"0.5517241379310345","Eigenvector Centrality":"0.5296074346389136","Betweenness Centrality":"0.0","PageRank":"0.0586200995021406","Harmonic Closeness Centrality":"0.59375","Grau":"3"},"color":"rgb(207,90,159)","size":35.45454406738281},{"label":"Adriana Ferraz Cesaretto","x":327.61669921875,"y":402.4284973144531,"id":"0","attributes":{"Modularity Class":"1","Eccentricity":"3.0","Closeness Centrality":"0.4","Eigenvector Centrality":"0.14583213714649654","Betweenness Centrality":"0.0","PageRank":"0.02593089966698727","Harmonic Closeness Centrality":"0.43749999999999983","Grau":"1"},"color":"rgb(242,10,118)","size":30.0},{"label":"Miguel Nisembaum","x":140.0243377685547,"y":219.37008666992188,"id":"4","attributes":{"Modularity Class":"1","Eccentricity":"2.0","Closeness Centrality":"0.8","Eigenvector Centrality":"1.0","Betweenness Centrality":"75.83333333333334","PageRank":"0.23691426581165642","Harmonic Closeness Centrality":"0.875","Grau":"12"},"color":"rgb(204,204,204)","size":60.0},{"label":"Caio Viana","x":51.19920349121094,"y":494.68695068359375,"id":"6","attributes":{"Modularity Class":"1","Eccentricity":"3.0","Closeness Centrality":"0.4","Eigenvector Centrality":"0.14583213714649654","Betweenness Centrality":"0.0","PageRank":"0.02593089966698727","Harmonic Closeness Centrality":"0.43749999999999983","Grau":"1"},"color":"rgb(242,10,118)","size":30.0},{"label":"Maiane Lewandowski","x":-440.2420654296875,"y":253.68016052246094,"id":"13","attributes":{"Modularity Class":"1","Eccentricity":"3.0","Closeness Centrality":"0.45714285714285713","Eigenvector Centrality":"0.20853350423734732","Betweenness Centrality":"0.0","PageRank":"0.02558967727838541","Harmonic Closeness Centrality":"0.48958333333333326","Grau":"1"},"color":"rgb(242,10,118)","size":30.0}],"edges":[{"source":"3","target":"1","id":"16","attributes":{},"color":"rgb(158,226,226)","size":1.0},{"source":"8","target":"1","id":"10","attributes":{},"color":"rgb(197,119,173)","size":2.0},{"source":"5","target":"1","id":"5","attributes":{},"color":"rgb(180,159,194)","size":2.0},{"source":"14","target":"1","id":"21","attributes":{},"color":"rgb(180,159,194)","size":2.0},{"source":"7","target":"4","id":"9","attributes":{},"color":"rgb(214,127,171)","size":2.0},{"source":"5","target":"3","id":"4","attributes":{},"color":"rgb(185,157,191)","size":2.0},{"source":"3","target":"4","id":"17","attributes":{},"color":"rgb(183,214,214)","size":2.0},{"source":"9","target":"4","id":"11","attributes":{},"color":"rgb(223,107,161)","size":2.0},{"source":"13","target":"4","id":"15","attributes":{},"color":"rgb(223,107,161)","size":2.0},{"source":"14","target":"4","id":"22","attributes":{},"color":"rgb(205,147,181)","size":2.0},{"source":"16","target":"4","id":"27","attributes":{},"color":"rgb(214,127,171)","size":4.0},{"source":"0","target":"1","id":"1","attributes":{},"color":"rgb(197,119,173)","size":2.0},{"source":"6","target":"1","id":"7","attributes":{},"color":"rgb(197,119,173)","size":2.0},{"source":"12","target":"4","id":"14","attributes":{},"color":"rgb(223,107,161)","size":2.0},{"source":"2","target":"4","id":"3","attributes":{},"color":"rgb(214,127,171)","size":2.0},{"source":"11","target":"4","id":"13","attributes":{},"color":"rgb(223,107,161)","size":2.0},{"source":"5","target":"4","id":"6","attributes":{},"color":"rgb(205,147,181)","size":2.0},{"source":"1","target":"4","id":"18","attributes":{},"color":"rgb(178,216,216)","size":3.0},{"source":"15","target":"3","id":"25","attributes":{},"color":"rgb(202,117,171)","size":2.0},{"source":"2","target":"3","id":"2","attributes":{},"color":"rgb(193,137,181)","size":2.0},{"source":"16","target":"3","id":"26","attributes":{},"color":"rgb(193,137,181)","size":2.0},{"source":"14","target":"3","id":"20","attributes":{},"color":"rgb(185,157,191)","size":2.0},{"source":"10","target":"4","id":"12","attributes":{},"color":"rgb(223,107,161)","size":2.0},{"source":"7","target":"3","id":"8","attributes":{},"color":"rgb(193,137,181)","size":2.0}]}
+{
+   "nodes":[
+      {
+         "label":"Fernanda Hasse",
+         "x":393.9275817871094,
+         "y":-216.6766357421875,
+         "id":"8",
+         "attributes":{
+            "Modularity Class":"0",
+            "Eccentricity":"4.0",
+            "Closeness Centrality":"0.38095238095238093",
+            "Betweenness Centrality":"0.0",
+            "PageRank":"0.030206391210165377",
+            "Harmonic Closeness Centrality":"0.4218749999999999",
+            "Grau de entrada":"1",
+            "Grau de saída":"1",
+            "Grau":"2"
+         },
+         "color":"rgb(0,0,0)",
+         "size":10.0
+      },
+      {
+         "label":"André Souza",
+         "x":-133.5323028564453,
+         "y":-386.53619384765625,
+         "id":"5",
+         "attributes":{
+            "Modularity Class":"0",
+            "Eccentricity":"2.0",
+            "Closeness Centrality":"0.5517241379310345",
+            "Betweenness Centrality":"2.6666666666666665",
+            "PageRank":"0.060839614076769764",
+            "Harmonic Closeness Centrality":"0.59375",
+            "Grau de entrada":"3",
+            "Grau de saída":"3",
+            "Grau":"6"
+         },
+         "color":"rgb(0,0,0)",
+         "size":10.0
+      },
+      {
+         "label":"Tatiane Laurindo",
+         "x":-351.9996032714844,
+         "y":-9.5474214553833,
+         "id":"16",
+         "attributes":{
+            "Modularity Class":"2",
+            "Eccentricity":"3.0",
+            "Closeness Centrality":"0.48484848484848486",
+            "Betweenness Centrality":"0.0",
+            "PageRank":"0.03945675227836909",
+            "Harmonic Closeness Centrality":"0.53125",
+            "Grau de entrada":"2",
+            "Grau de saída":"2",
+            "Grau":"4"
+         },
+         "color":"rgb(0,0,0)",
+         "size":30.0
+      },
+      {
+         "label":"Ligia Andrade",
+         "x":-410.0434265136719,
+         "y":-330.7153625488281,
+         "id":"11",
+         "attributes":{
+            "Modularity Class":"2",
+            "Eccentricity":"3.0",
+            "Closeness Centrality":"0.45714285714285713",
+            "Betweenness Centrality":"0.0",
+            "PageRank":"0.025677963826091874",
+            "Harmonic Closeness Centrality":"0.48958333333333326",
+            "Grau de entrada":"1",
+            "Grau de saída":"1",
+            "Grau":"2"
+         },
+         "color":"rgb(0,0,0)",
+         "size":10.0
+      },
+      {
+         "label":"Edna Bedani",
+         "x":-310.3353271484375,
+         "y":-49.739681243896484,
+         "id":"7",
+         "attributes":{
+            "Modularity Class":"1",
+            "Eccentricity":"3.0",
+            "Closeness Centrality":"0.48484848484848486",
+            "Betweenness Centrality":"0.0",
+            "PageRank":"0.03945675227836909",
+            "Harmonic Closeness Centrality":"0.53125",
+            "Grau de entrada":"2",
+            "Grau de saída":"2",
+            "Grau":"4"
+         },
+         "color":"rgb(0,0,0)",
+         "size":10.0
+      },
+      {
+         "label":"Miguel Nisembaum",
+         "x":-231.4555206298828,
+         "y":10.3187894821167,
+         "id":"4",
+         "attributes":{
+            "Modularity Class":"2",
+            "Eccentricity":"2.0",
+            "Closeness Centrality":"0.8",
+            "Betweenness Centrality":"160.33333333333334",
+            "PageRank":"0.23777696739619328",
+            "Harmonic Closeness Centrality":"0.875",
+            "Grau de entrada":"12",
+            "Grau de saída":"12",
+            "Grau":"24"
+         },
+         "color":"rgb(0,0,0)",
+         "size":60.0
+      },
+      {
+         "label":"Alessandra Gerevine Campos Nogueira",
+         "x":-0.5682228207588196,
+         "y":280.5340576171875,
+         "id":"2",
+         "attributes":{
+            "Modularity Class":"1",
+            "Eccentricity":"3.0",
+            "Closeness Centrality":"0.48484848484848486",
+            "Betweenness Centrality":"0.0",
+            "PageRank":"0.03945675227836909",
+            "Harmonic Closeness Centrality":"0.53125",
+            "Grau de entrada":"2",
+            "Grau de saída":"2",
+            "Grau":"4"
+         },
+         "color":"rgb(0,0,0)",
+         "size":10.0
+      },
+      {
+         "label":"Leandro Nazari de Melo",
+         "x":503.3800354003906,
+         "y":436.95892333984375,
+         "id":"10",
+         "attributes":{
+            "Modularity Class":"2",
+            "Eccentricity":"3.0",
+            "Closeness Centrality":"0.45714285714285713",
+            "Betweenness Centrality":"0.0",
+            "PageRank":"0.025677963826091874",
+            "Harmonic Closeness Centrality":"0.48958333333333326",
+            "Grau de entrada":"1",
+            "Grau de saída":"1",
+            "Grau":"2"
+         },
+         "color":"rgb(0,0,0)",
+         "size":10.0
+      },
+      {
+         "label":"Matthias Wegener",
+         "x":301.6689758300781,
+         "y":189.56903076171875,
+         "id":"14",
+         "attributes":{
+            "Modularity Class":"1",
+            "Eccentricity":"2.0",
+            "Closeness Centrality":"0.5517241379310345",
+            "Betweenness Centrality":"2.6666666666666665",
+            "PageRank":"0.060839614076769764",
+            "Harmonic Closeness Centrality":"0.59375",
+            "Grau de entrada":"3",
+            "Grau de saída":"3",
+            "Grau":"6"
+         },
+         "color":"rgb(0,0,0)",
+         "size":30.0
+      },
+      {
+         "label":"Maiane Lewandowski",
+         "x":-442.804443359375,
+         "y":-82.21170043945312,
+         "id":"13",
+         "attributes":{
+            "Modularity Class":"2",
+            "Eccentricity":"3.0",
+            "Closeness Centrality":"0.45714285714285713",
+            "Betweenness Centrality":"0.0",
+            "PageRank":"0.025677963826091874",
+            "Harmonic Closeness Centrality":"0.48958333333333326",
+            "Grau de entrada":"1",
+            "Grau de saída":"1",
+            "Grau":"2"
+         },
+         "color":"rgb(0,0,0)",
+         "size":10.0
+      },
+      {
+         "label":"Maria Alice Jovinski",
+         "x":454.2624206542969,
+         "y":-373.00592041015625,
+         "id":"1",
+         "attributes":{
+            "Modularity Class":"0",
+            "Eccentricity":"3.0",
+            "Closeness Centrality":"0.5925925925925926",
+            "Betweenness Centrality":"84.66666666666666",
+            "PageRank":"0.1509482891520942",
+            "Harmonic Closeness Centrality":"0.6770833333333334",
+            "Grau de entrada":"7",
+            "Grau de saída":"6",
+            "Grau":"13"
+         },
+         "color":"rgb(0,0,0)",
+         "size":40.0
+      },
+      {
+         "label":"Marcelo Nobrega",
+         "x":452.9784240722656,
+         "y":-75.86471557617188,
+         "id":"3",
+         "attributes":{
+            "Modularity Class":"1",
+            "Eccentricity":"2.0",
+            "Closeness Centrality":"0.6666666666666666",
+            "Betweenness Centrality":"45.66666666666667",
+            "PageRank":"0.12961394783806837",
+            "Harmonic Closeness Centrality":"0.75",
+            "Grau de entrada":"7",
+            "Grau de saída":"8",
+            "Grau":"15"
+         },
+         "color":"rgb(0,0,0)",
+         "size":50.0
+      },
+      {
+         "label":"Caio Viana",
+         "x":475.8686218261719,
+         "y":34.311893463134766,
+         "id":"6",
+         "attributes":{
+            "Modularity Class":"0",
+            "Eccentricity":"4.0",
+            "Closeness Centrality":"0.38095238095238093",
+            "Betweenness Centrality":"0.0",
+            "PageRank":"0.030206391210165377",
+            "Harmonic Closeness Centrality":"0.4218749999999999",
+            "Grau de entrada":"1",
+            "Grau de saída":"1",
+            "Grau":"2"
+         },
+         "color":"rgb(0,0,0)",
+         "size":10.0
+      },
+      {
+         "label":"Adriana Ferraz Cesaretto",
+         "x":314.8559265136719,
+         "y":527.1744995117188,
+         "id":"0",
+         "attributes":{
+            "Modularity Class":"0",
+            "Eccentricity":"4.0",
+            "Closeness Centrality":"0.38095238095238093",
+            "Betweenness Centrality":"0.0",
+            "PageRank":"0.030206391210165377",
+            "Harmonic Closeness Centrality":"0.4218749999999999",
+            "Grau de entrada":"1",
+            "Grau de saída":"1",
+            "Grau":"2"
+         },
+         "color":"rgb(0,0,0)",
+         "size":10.0
+      },
+      {
+         "label":"Fernanda Pimenta",
+         "x":-375.82318115234375,
+         "y":-52.64315414428711,
+         "id":"9",
+         "attributes":{
+            "Modularity Class":"2",
+            "Eccentricity":"3.0",
+            "Closeness Centrality":"0.45714285714285713",
+            "Betweenness Centrality":"0.0",
+            "PageRank":"0.025677963826091874",
+            "Harmonic Closeness Centrality":"0.48958333333333326",
+            "Grau de entrada":"1",
+            "Grau de saída":"1",
+            "Grau":"2"
+         },
+         "color":"rgb(0,0,0)",
+         "size":10.0
+      },
+      {
+         "label":"Lilian Gordon",
+         "x":-415.065185546875,
+         "y":564.38720703125,
+         "id":"12",
+         "attributes":{
+            "Modularity Class":"2",
+            "Eccentricity":"3.0",
+            "Closeness Centrality":"0.45714285714285713",
+            "Betweenness Centrality":"0.0",
+            "PageRank":"0.025677963826091874",
+            "Harmonic Closeness Centrality":"0.48958333333333326",
+            "Grau de entrada":"1",
+            "Grau de saída":"1",
+            "Grau":"2"
+         },
+         "color":"rgb(0,0,0)",
+         "size":10.0
+      },
+      {
+         "label":"Paula Traldi",
+         "x":-429.7024841308594,
+         "y":-193.217041015625,
+         "id":"15",
+         "attributes":{
+            "Modularity Class":"1",
+            "Eccentricity":"3.0",
+            "Closeness Centrality":"0.41025641025641024",
+            "Betweenness Centrality":"0.0",
+            "PageRank":"0.022602317864041918",
+            "Harmonic Closeness Centrality":"0.4479166666666665",
+            "Grau de entrada":"1",
+            "Grau de saída":"1",
+            "Grau":"2"
+         },
+         "color":"rgb(0,0,0)",
+         "size":10.0
+      }
+   ],
+   "edges":[
+      {
+         "source":"4",
+         "target":"11",
+         "id":"37",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      },
+      {
+         "source":"5",
+         "target":"1",
+         "id":"5",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      },
+      {
+         "source":"4",
+         "target":"1",
+         "id":"24",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      },
+      {
+         "source":"4",
+         "target":"14",
+         "id":"46",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      },
+      {
+         "source":"3",
+         "target":"1",
+         "id":"16",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      },
+      {
+         "source":"2",
+         "target":"3",
+         "id":"2",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      },
+      {
+         "source":"3",
+         "target":"16",
+         "id":"48",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      },
+      {
+         "source":"4",
+         "target":"12",
+         "id":"38",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      },
+      {
+         "source":"1",
+         "target":"8",
+         "id":"41",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      },
+      {
+         "source":"1",
+         "target":"14",
+         "id":"45",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      },
+      {
+         "source":"4",
+         "target":"13",
+         "id":"43",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      },
+      {
+         "source":"3",
+         "target":"5",
+         "id":"31",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      },
+      {
+         "source":"14",
+         "target":"3",
+         "id":"20",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      },
+      {
+         "source":"3",
+         "target":"4",
+         "id":"17",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      },
+      {
+         "source":"1",
+         "target":"4",
+         "id":"18",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      },
+      {
+         "source":"14",
+         "target":"1",
+         "id":"21",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      },
+      {
+         "source":"4",
+         "target":"16",
+         "id":"49",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      },
+      {
+         "source":"3",
+         "target":"7",
+         "id":"39",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      },
+      {
+         "source":"4",
+         "target":"9",
+         "id":"42",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      },
+      {
+         "source":"4",
+         "target":"10",
+         "id":"36",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      },
+      {
+         "source":"1",
+         "target":"5",
+         "id":"32",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      },
+      {
+         "source":"3",
+         "target":"15",
+         "id":"47",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      },
+      {
+         "source":"1",
+         "target":"6",
+         "id":"35",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      },
+      {
+         "source":"3",
+         "target":"14",
+         "id":"44",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      },
+      {
+         "source":"14",
+         "target":"4",
+         "id":"22",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      },
+      {
+         "source":"8",
+         "target":"1",
+         "id":"10",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      },
+      {
+         "source":"12",
+         "target":"4",
+         "id":"14",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      },
+      {
+         "source":"6",
+         "target":"1",
+         "id":"7",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      },
+      {
+         "source":"13",
+         "target":"4",
+         "id":"15",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      },
+      {
+         "source":"7",
+         "target":"4",
+         "id":"9",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      },
+      {
+         "source":"9",
+         "target":"4",
+         "id":"11",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      },
+      {
+         "source":"4",
+         "target":"7",
+         "id":"40",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      },
+      {
+         "source":"7",
+         "target":"3",
+         "id":"8",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      },
+      {
+         "source":"5",
+         "target":"3",
+         "id":"4",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      },
+      {
+         "source":"11",
+         "target":"4",
+         "id":"13",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      },
+      {
+         "source":"4",
+         "target":"5",
+         "id":"33",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      },
+      {
+         "source":"3",
+         "target":"2",
+         "id":"29",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      },
+      {
+         "source":"4",
+         "target":"2",
+         "id":"30",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      },
+      {
+         "source":"16",
+         "target":"3",
+         "id":"26",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      },
+      {
+         "source":"4",
+         "target":"3",
+         "id":"23",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      },
+      {
+         "source":"0",
+         "target":"1",
+         "id":"1",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      },
+      {
+         "source":"15",
+         "target":"3",
+         "id":"25",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      },
+      {
+         "source":"5",
+         "target":"4",
+         "id":"6",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      },
+      {
+         "source":"10",
+         "target":"4",
+         "id":"12",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      },
+      {
+         "source":"1",
+         "target":"0",
+         "id":"34",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      },
+      {
+         "source":"2",
+         "target":"4",
+         "id":"3",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      },
+      {
+         "source":"16",
+         "target":"4",
+         "id":"27",
+         "attributes":{
+            
+         },
+         "color":"rgb(0,0,0)",
+         "size":1.0
+      }
+   ]
+}
